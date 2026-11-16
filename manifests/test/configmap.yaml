@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-app
+  labels:
+    app: test-app
+data:
+  message: "test validation object deployed from git"
