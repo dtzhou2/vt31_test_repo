@@ -5,4 +5,4 @@ metadata:
   labels:
     app: test-app
 data:
-  message: "test validation object deployed from git"
+  message: "VT31 test team GitOps update verified 2026-11-16"
